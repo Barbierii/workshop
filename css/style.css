@@ -1,0 +1,92 @@
+
+
+/*seletor{
+    propriedade: valor;
+}*/
+body{
+    margin: 0;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+.banner{
+    background-image: url(../img/barbara.png);
+    background-size: cover;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    
+}
+
+h1{
+    padding-top: 15%;
+    font-size: 2.8rem;
+  
+}
+
+.subtitulo{
+    font-size: 1.2rem;
+    color:white;
+    padding: 20;
+}
+
+.botao{
+    color: rgb(27, 66, 27);
+    border-radius: 2rem;
+    text-transform: uppercase;
+    background-color: white;
+    padding: 0.6rem;
+    border: 2px solid rgb(27, 66, 27);
+    
+
+}
+
+h2{
+    color:  rgb(27, 66, 27);
+    text-align: center;
+    
+}
+
+.sobre_mim{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: transparent rgb(112, 148, 112);
+    
+}
+
+.div_minhas_habilidades{
+    padding: 5% 30%;
+    text-align: left;
+    padding: 2;
+    background-color: transparent rgb(112, 148, 112);
+
+}
+
+.botao_central{
+    text-align: center;
+
+}
+
+.redes_sociais{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+
+}
+.ancoras{
+    background-color:rgb(50, 82, 50);
+    margin: 3%;
+    padding: 0.9rem;
+    color: white;
+
+}
